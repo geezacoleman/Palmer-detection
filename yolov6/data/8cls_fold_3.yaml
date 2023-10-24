@@ -1,0 +1,9 @@
+train: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_3/8cls_fold_3/images/train
+val: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_3/8cls_fold_3/images/val
+test: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_3/8cls_fold_3/images/test
+
+is_coco: False
+
+# Classes
+nc: 8  # number of classes
+names: ['PA-1', 'PA-2', 'PA-3', 'PA-4', 'PA-5', 'SPA-1', 'SPA-2', 'SPA-3']  # class names

@@ -1,0 +1,17 @@
+# YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
+# parent
+# ├── yolov5
+# └── datasets
+#     └── GlobalWheat2020  ← downloads here
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_1/8cls_fold_1  # dataset root dir
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+nc: 8  # number of classes
+names: ['SZ-1', 'SZ-2', 'SZ-3', 'SZ-4', 'SZ-5', 'SZ-6', 'SZ-7', 'SZ-8']  # class names

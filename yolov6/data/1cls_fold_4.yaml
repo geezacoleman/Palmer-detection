@@ -1,0 +1,10 @@
+train: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_4/1cls_fold_4/images/train
+val: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_4/1cls_fold_4/images/val
+test: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_4/1cls_fold_4/images/test
+
+is_coco: False
+
+# Classes
+nc: 1  # number of classes
+names: ['PA']  # list of class names
+    

@@ -1,0 +1,24 @@
+{
+  "cropped_to_plant": false,
+  "id": 0,
+  "crop_type": "cotton",
+  "bbch_growth_range": {
+    "min": 12,
+    "max": 65
+  },
+  "soil_colour": "red_brown",
+  "surface_cover": "cereal",
+  "surface_coverage": "0-25",
+  "location_lat": 30.537516,
+  "location_long": -96.422415,
+  "camera_make": "FLIR BFS 70S7C-C",
+  "camera_lens": "Computar 1.1\" 12mm f/2.8 12MP Ultra Low Distortion Lens (C-Mount)",
+  "camera_lens_focallength": 12,
+  "camera_height": 1500,
+  "camera_angle": 90,
+  "camera_fov": 72,
+  "ground_speed": 0,
+  "lighting": "natural",
+  "photography_description": "Collection of images of palmer amaranth in cotton rows in College Station, Texas at the Texas A&M University farm. Collected under variable lighting conditions between 12 - 3pm.",
+  "weather_description": "Variable cloudy, partial cloud and full sun conditions. "
+}

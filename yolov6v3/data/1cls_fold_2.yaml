@@ -1,0 +1,11 @@
+# paths to train, val and test folders
+train: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_2/1cls_fold_2/images/train
+val: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_2/1cls_fold_2/images/val
+test: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_2/1cls_fold_2/images/test
+
+is_coco: False
+
+# Classes
+nc: 1  # number of classes
+names: ['PA']  # list of class names
+    

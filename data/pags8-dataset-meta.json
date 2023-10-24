@@ -1,0 +1,43 @@
+{
+  "description": "Images of Palmer amaranth at eight different growth stages collected in cotton at the Texas A&M University farm in College Station, Texas. The dataset is a benchmark for growth stage detection under highly variable conditions in a morphologically challenging plant species.",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "@type": "Dataset",
+  "name": "Palmer amaranth Growth Stage - 8 (PAGS8)",
+  "datePublished": "2023-10-17",
+  "creator": [
+    {
+      "@type": "Person",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Sydney"
+      },
+      "name": "Guy Coleman",
+      "sameAs": "https://orcid.org/0000-0002-8808-2965"
+    },
+    {
+      "@type": "Person",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Texas A&M University"
+      },
+      "name": "Matthew Kutugata"
+    },
+    {
+      "@type": "Person",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "University of Sydney"
+      },
+      "name": "Michael Walsh"
+    },
+    {
+      "@type": "Person",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Texas A&M University"
+      },
+      "name": "Muthukumar Bagavathiannan"
+    }
+  ],
+  "citation": "https://arxiv.org/abs/2307.15816"
+}

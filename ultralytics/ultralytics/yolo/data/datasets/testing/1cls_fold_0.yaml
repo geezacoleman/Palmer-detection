@@ -1,0 +1,20 @@
+
+# YOLOv5 Dataset Template adapted from Ultralytics, GPL-3.0 license
+
+# parent
+# ├── yolov5
+# └── datasets
+#     └── *put your dataset here*
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+# Dataset root dir
+path: /content/drive/My Drive/Colab Notebooks/palmer_amaranth/datasets/fold_0/1cls_fold_0
+# paths to train, val and test folders
+train: images/train
+val: images/val
+test: images/test
+
+# Classes
+nc: 1  # number of classes
+names: ['PA']  # list of class names
+    
