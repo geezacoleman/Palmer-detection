@@ -83,6 +83,10 @@ provided as error bars. Tukey’s HSD lettering indicates significance (P < 0.05
 v5-X, and v5-N model variants. At lower resolutions, the difference between the smaller and larger model becomes apparent. 
 </p>
 
+### Eigen-CAM
+<a target="_blank" href="https://colab.research.google.com/github/geezacoleman/Palmer-detection/blob/main/eigen-cam/eigen-cam.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> 
+
+
 # Cite
 Please cite our work as:
 ```json
